@@ -6,7 +6,7 @@
 </head>
 <body>
  <h1>This is the house of Nicodemus on the internet. Welcome!</h1>
- <img src="pix.jpg" />
+ <img src="pis.jpg" />
  <h2>About Me</h2>
  <p> Hi! I am Nicodemus Tan, a thirteen year old from <a href="http://www.dunmanhigh.moe.edu.sg">Dunman High School</a>, Singapore.</p>
  <h2> Interest</h2>
